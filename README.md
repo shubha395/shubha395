@@ -1,55 +1,75 @@
-# 🙋‍♂️ About Me  
+# 🙋‍♀️ About Me  
 
-Hi, I'm **Nikhil Sawhney**, a final-year BCA undergraduate at **Manipal University Online**, deeply passionate about **Data Analytics**, **Artificial Intelligence**, and **Machine Learning**. I thrive on solving real-world problems through data-driven solutions and AI innovation.
+Hi, I'm **Shubha Saini**, a BA graduate at **Delhi University** and a passionate aspiring **Data Analyst**. With a strong foundation in **Python, SQL, Power BI, and Advanced Excel**, I specialize in solving real-world problems through **data-driven insights**, **AI innovation**, and **machine learning applications**.  
 
-## 🔭 Current Projects  
-- 🔡 **AI-Powered Virtual Keyboard**  
+Currently, I’m undergoing hands-on training in **data analytics** at **Ducat India**, where I'm honing my skills in **data cleaning**, **exploratory data analysis**, and **visual storytelling**. I bring curiosity, critical thinking, and a love for numbers to every project I tackle.  
+
+---
+
+## 🔭 Current Projects   
 - 🤖 **Machine Learning Prediction Models**  
 - 📩 **Spam Detection System Using NLP**  
+- 📊 **Google Play Store & Customer Churn Exploratory Data Analysis (EDA)**  
+
+---
 
 ## 🎯 Areas of Interest  
-- Machine Learning & Data Optimization   
+- Machine Learning & Data Optimization  
 - Generative AI (GenAI)  
-- Power Bi and Excel
-- Microsoft SQL and Sql-yog  
-- Applied AI  
+- Power BI and Advanced Excel  
+- Microsoft SQL and SQL-Yog  
+- Applied AI & Business Intelligence  
 
 ---
 
 # 🏆 Achievements  
 
-## 📜 Certifications  
-- ✅ **IBM Data Science Professional Certificate** – *IBM*  
-- ✅ **Google Data Analytics & Advanced Data Analytics** – *Google*  
-- ✅ **Microsoft Power BI Data Analyst Associate** – *Microsoft*  
-
-## 🌐 Events & Conferences  
-- 🏅 Participant – **IETF (International Engineering and Technology Fair)**  
-- 🧠 Attendee – **GAISA (Global Artificial Intelligence Summit and Awards)**  
+### 📜 Certifications   
+- ✅ **Microsoft Power BI Data Analyst Associate**  
+- ✅ **AWS Fundamentals** – *Amazon Web Services*  
+- ✅ **Python for Data Science & Machine Learning** – *Udemy*  
+- ✅ **Statistics for Data Analysts** – *Udemy*  
 
 ---
 
 # 🧠 Skills Snapshot  
 
-## 💻 Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,aws,azure)](https://skillicons.dev)
+## 💻 Programming & Languages  
+![Python](https://skillicons.dev/icons?i=py)
+![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
 
-## 📚 Libraries & Frameworks  
-[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,django,redux)](https://skillicons.dev)
+## 📊 Data Tools & Libraries  
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![NumPy](https://skillicons.dev/icons?i=numpy)
+![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
+
+## 📈 Visualization & BI  
+![Power BI](https://skillicons.dev/icons?i=powerbi)  
+*Also proficient in Tableau, Advanced Excel*
 
 ## 🗃️ Databases  
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-## ☁️ Cloud & DevOps  
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,azure)](https://skillicons.dev)
+## ☁️ Cloud & Platforms  
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
 
-## 🧰 Tools & Platforms  
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,vscode,pycharm,raspberrypi,visualstudio)](https://skillicons.dev)
+## 🧰 Tools & IDEs  
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
 
 ---
 
 # 📬 Connect with Me  
 
-- 📧 **Email**: [niknikhil22dec@gmail.com](mailto:niknikhil22dec@gmail.com)  
-- 💼 **LinkedIn**: [Nikhil Sawhney](https://www.linkedin.com/in/nikhil-sawhney-3661661a7)  
-- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1tBpljVY60nBDlJIaRSqsemSnZCTziArn/view?usp=drive_link)
+- 📧 **Email**: [shubhasaini203@gmail.com](mailto:shubhasaini203@gmail.com)  
+- 📞 **Phone**: (+91) 8130270385  
+- 💼 **LinkedIn**: [Shubha Saini](https://www.linkedin.com/in/shubha-saini-328364344)  
+- 💻 **GitHub**: [github.com/shubha395](https://github.com/shubha395)  
