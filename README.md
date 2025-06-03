@@ -71,5 +71,6 @@ Currently, I’m undergoing hands-on training in **data analytics** at **Ducat I
 
 - 📧 **Email**: [shubhasaini203@gmail.com](mailto:shubhasaini203@gmail.com)  
 - 📞 **Phone**: (+91) 8130270385  
-- 💼 **LinkedIn**: [Shubha Saini](https://www.linkedin.com/in/shubha-saini-328364344)  
+- 💼 **LinkedIn**: [Shubha Saini](https://www.linkedin.com/in/shubha-saini-328364344)
+- **Resume**: [Click Here](https://drive.google.com/file/d/12cOcvQA3Varb3jjbTpdYBpnNe849R-og/view?usp=sharing)
 - 💻 **GitHub**: [github.com/shubha395](https://github.com/shubha395)  
